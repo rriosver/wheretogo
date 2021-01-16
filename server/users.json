@@ -1,0 +1,24 @@
+{
+    "users": [{
+            "id": "40409851",
+            "firstName": "Roxana",
+            "lastName": "Rios",
+            "email": "roxannariosv@gmail.com",
+            "password": "MTIzNDU2"
+        },
+        {
+            "firstName": "Gael",
+            "lastName": "Sanchez",
+            "email": "gaelsanchez@gmail.com",
+            "password": "MTIzNDU2",
+            "id": "_OU4s3o"
+        },
+        {
+            "firstName": "gael",
+            "lastName": "sanchez",
+            "email": "gaelsanchez1@gmail.com",
+            "password": "MTIzNDU2",
+            "id": "l1XsWTK"
+        }
+    ]
+}
